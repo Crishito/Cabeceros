@@ -12,7 +12,7 @@ import java.util.Enumeration;
 
 
 //Conotacion nuestra llave
-@WebServlet("/cabeceros-request")
+@WebServlet("/cabecero-request")
 public class CabecerosHttpRequestServlet extends HttpServlet {
 
     //Metodo
